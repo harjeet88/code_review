@@ -14,13 +14,16 @@
 11. Is Property Management done properly?
 12. How Nullable - non-nullable is handled
 13. How unexpected input is handled?
-14. Walk through Code and write comments as you go.
+14. Walk through Code and write comments as you go. Comments should tell why are we doing this not what.
 15. Is connection pooling used?
 16. If it is spark code. How is spark object being created?
 17. Suggest Any Design Pattren to use.
 18. If a function is having lot of input parameters. can It be bundled in domain objects.
 19. Suggest to use domain object instad of primitive variables.
 20. Multithreaded vs Single threaded
+21. Unit test cases are exaustive or not
+22. 
+23. 
 
 ## Interview Experience
 1. [Google EM Interview](https://www.teamblind.com/post/Google-code-review-interview-5HSeJtjD)
