@@ -28,3 +28,6 @@
 ## Blogs
 1. [Try Exponent](https://blog.tryexponent.com/how-to-ace-a-code-review/)
 2. [Code review Best Practices](https://www.youtube.com/watch?v=1Ge__2Yx_XQ)
+3. [leetcode](https://leetcode.com/discuss/study-guide/1535554/how-to-prep-for-a-google-code-review-interview-question)
+4. [Blog Post](http://www.javainterview.in/p/code-review-interview-questions.html)
+5. 
