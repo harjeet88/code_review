@@ -20,7 +20,11 @@
 17. Suggest Any Design Pattren to use.
 18. If a function is having lot of input parameters. can It be bundled in domain objects.
 19. Suggest to use domain object instad of primitive variables.
-20. 
+20. Multithreaded vs Single threaded
 
 ## Interview Experience
 1. [Google EM Interview](https://www.teamblind.com/post/Google-code-review-interview-5HSeJtjD)
+
+## Blogs
+1. [Try Exponent](https://blog.tryexponent.com/how-to-ace-a-code-review/)
+2. [Code review Best Practices](https://www.youtube.com/watch?v=1Ge__2Yx_XQ)
