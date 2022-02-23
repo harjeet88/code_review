@@ -23,7 +23,10 @@
 20. Multithreaded vs Single threaded
 21. Unit test cases are exaustive or not
 22. DRY and KISS Principle, Boy scout Principal
-23. 
+23. No Password in repository.
+24. How to handle Sql Injection?
+25. Input variable sanatization.
+26. 
 
 ## Interview Experience
 1. [Google EM Interview](https://www.teamblind.com/post/Google-code-review-interview-5HSeJtjD)
