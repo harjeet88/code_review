@@ -22,7 +22,7 @@
 19. Suggest to use domain object instad of primitive variables.
 20. Multithreaded vs Single threaded
 21. Unit test cases are exaustive or not
-22. 
+22. DRY and KISS Principle, Boy scout Principal
 23. 
 
 ## Interview Experience
