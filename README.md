@@ -30,6 +30,9 @@
 
 ## Interview Experience
 1. [Google EM Interview](https://www.teamblind.com/post/Google-code-review-interview-5HSeJtjD)
+2. [Continous Delivery vs Continous Deployment](https://www.indellient.com/blog/whats-the-difference-between-continuous-integration-continuous-delivery-and-continuous-deployment/#:~:text=Continuous%20Delivery%20vs%20Continuous%20Deployment,-By%20this%20time&text=Continuous%20delivery%20is%20a%20partly,automating%20the%20entire%20the%20process.)
+3. [Types of Release Process](https://www.testenvironmentmanagement.com/deployment-styles-bluegreen-canary-and-ab/)
+4. [A/B Testing vs Canary Release](https://stackoverflow.com/questions/62092338/canary-vs-a-b-release-strategy)
 
 ## Blogs
 1. [Try Exponent](https://blog.tryexponent.com/how-to-ace-a-code-review/)
