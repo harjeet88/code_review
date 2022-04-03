@@ -40,6 +40,11 @@
 3. [leetcode](https://leetcode.com/discuss/study-guide/1535554/how-to-prep-for-a-google-code-review-interview-question)
 4. [Blog Post](http://www.javainterview.in/p/code-review-interview-questions.html)
 5. [Github Blog](https://google.github.io/eng-practices/review/reviewer/looking-for.html)
+6. [Code Review Checklist](https://www.michaelagreiler.com/code-review-checklist-2/)
+
+## Dev Ops
+1. [Feature Flags](https://www.cuelogic.com/blog/feature-flags)
+
 
 ## Code Review Examples
 1. https://github.com/yogitaAP/codereviewgkcs/compare/53ed96b323f7b2dd85696a1689a8fdde53da3988...bef32a8cb9c15789bfa24d9ea648006921d11027
