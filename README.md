@@ -41,6 +41,7 @@
 4. [Blog Post](http://www.javainterview.in/p/code-review-interview-questions.html)
 5. [Github Blog](https://google.github.io/eng-practices/review/reviewer/looking-for.html)
 6. [Code Review Checklist](https://www.michaelagreiler.com/code-review-checklist-2/)
+7. [Inversion of Control and Dependency Injection](https://www.tutorialsteacher.com/ioc/introduction)
 
 ## Dev Ops
 1. [Feature Flags](https://www.cuelogic.com/blog/feature-flags)
