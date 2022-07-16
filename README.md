@@ -47,6 +47,9 @@
 1. [Feature Flags](https://www.cuelogic.com/blog/feature-flags)
 2. [E2E Python Project Setup](https://www.youtube.com/watch?v=WTofttoD2xg)
 
+# Template projects
+1. [PySpark ML template](https://github.com/hbaflast/pyspark-project-template)
+
 
 ## Code Review Examples
 1. https://github.com/yogitaAP/codereviewgkcs/compare/53ed96b323f7b2dd85696a1689a8fdde53da3988...bef32a8cb9c15789bfa24d9ea648006921d11027
