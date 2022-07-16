@@ -45,6 +45,7 @@
 
 ## Dev Ops
 1. [Feature Flags](https://www.cuelogic.com/blog/feature-flags)
+2. [E2E Python Project Setup](https://www.youtube.com/watch?v=WTofttoD2xg)
 
 
 ## Code Review Examples
